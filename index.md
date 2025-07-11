@@ -1,2 +1,2 @@
-first line by friend
-second line by friend
+first line of code
+second line by me
